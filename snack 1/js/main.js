@@ -8,5 +8,5 @@ do {
 if (numero % 2 == 0) {
     console.log(numero);
 } else if (numero % 2 != 0) {
-    console.log(numero + 1)
+    console.log(numero + 1);
 }
